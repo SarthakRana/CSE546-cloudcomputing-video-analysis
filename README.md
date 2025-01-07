@@ -22,11 +22,17 @@ This project is part of CSE546: Cloud Computing course take at ASU in Fall 24. I
 ## 🎓 𝗞𝗲𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
 
 ✅ Built a multi-stage video processing pipeline using AWS Lambda functions
+
 ✅ Implemented face recognition using ResNet-34 and SSD for accurate detection
+
 ✅ Utilized FFmpeg for video frame extraction
+
 ✅ Orchestrated data flow between functions using S3 buckets
+
 ✅ Successfully processed 100-video workload within 300 seconds🚀 
+
 ✅ Achieved efficient scaling under load while maintaining cost-effectiveness
+
 ✅ Achieved 95%+ accuracy in face recognition 🎯 
 
 The project demonstrated how modern cloud architectures can efficiently handle complex ML workloads. It's a perfect example of combining serverless computing, machine learning, and automation to create scalable solutions.
